@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, :wave: i'm Nathan
 
-<!--
-**NathanDonald/NathanDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+:microscope: I currently study Computer Science and Data Science at The Queensland University of Technology
+:briefcase: I’m beginning work on my capstone project for my final year of study  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+
+:e-mail:: nathandonald.email@gmail.com  
+    Discord: NathanD#1213
+
+### Projects:
+
+##### Smart Doorbell Using Raspi:
+
+https://www.youtube.com/watch?v=BgPPGZl0Am4&ab_channel=NathanDonald
+
+
+##### Car Park Simulator:
+This C program would run a simulation of a carpark to test a carpark manager and firealarm.
+https://youtu.be/uL7f7wt0Sok
