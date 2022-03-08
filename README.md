@@ -2,6 +2,7 @@
 
 ### About me
 :microscope: I currently study Computer Science and Data Science at The Queensland University of Technology
+
 :briefcase: I’m beginning work on my capstone project for my final year of study  
 
 
